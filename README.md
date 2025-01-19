@@ -2,7 +2,7 @@
 
 Data Source: Kaggle.(https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing)
 
-Tableau Dashboard Designed: 
+Tableau Dashboard Designed: https://public.tableau.com/app/profile/henry.kpano/viz/ABTestingforCampaignSuccessandAttribution/Dashboard1
 
 Documentation: 
 
